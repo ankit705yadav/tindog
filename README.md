@@ -1,2 +1,1 @@
-# tindog
-tinder ripoff
+TinDog Starting Files
